@@ -4,8 +4,6 @@ This is a git introduction project, to employees with no git experience.
 In this project we have a employee files for all employees of the company.
 To complete this introduction flow, added your employee file in respective folder.
 
-[TOC]
-
 ## Steps:
 
 <details>
