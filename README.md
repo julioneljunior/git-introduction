@@ -16,8 +16,11 @@ To complete this introduction flow, added your employee file in respective folde
 ### 1. Clone repository
 To clone this repository:
 1. click in 'download or clone' button.
-![download_or_clone_image](julioneljunior.github.com/tuntscorp-git-introduction/md-images/001-clone_or_download.png)
+![download_or_clone_image](/md-images/001-clone_or_download.png)
+
 2. Copy the repository url.
+![clone_url](/md-images/002-clone-url.png)
+
 3. Open Git Bash ( download link -> https://git-scm.com/downloads)
 4. Clone repository to your computer.
 
@@ -64,7 +67,15 @@ git push origin {your_branch_name}
 
 ### 5. Create a Pull Request
 1. Open the repository website, open the 'Pull Requests' page, click in the 'New pull request' button.
+![pull_request](/md-images/009-pull-request-page.png)
+
 2. Select your branch in 'compare or head' selector
+![compare_branchs](/md-images/011-compare-branchs.png)
 3. Review your alterations and click 'Create Pull Request' button
+
+![review_modifications](/md-images/012-review-modifications.png)
+
 4. Insert a title and description (you have the list of commit messages) and added a reviewer to analyze and approve or reject your pull request.
+![review_modifications](/md-images/014-pull-request.png)
+
 5. Click 'Create pull request' button
