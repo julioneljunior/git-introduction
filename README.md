@@ -7,16 +7,12 @@ To complete this introduction flow, added your employee file in respective folde
 [TOC]
 
 ## Steps:
-1. Clone repository
-2. Create a branch
-3. Added your information file
-4. Make a push of your branch
-5. Create a Pull Request
 
 <details>
   <summary> 
     1. Clone repository 
   </summary>
+  
 To clone this repository:
 #### 1.1. click in 'download or clone' button.
 ![download_or_clone_image](/md-images/001-clone_or_download.png)
@@ -37,6 +33,7 @@ git clone '{repository_url}' // repository_url = url copied from step2
   <summary>
     2. Create a branch
   </summary>
+  
 To create a new branch:
 #### 2.1. Open Git bash
 #### 2.2. Create a new branch with your name.
@@ -49,6 +46,7 @@ git checkout -b '{name_of_the_branch}' // name_of_the_branch = {yourname}+employ
   <summary>
     3. Added your information file
   </summary>
+  
 #### 3.1. Create your file taking into consideration your contract with the company (intern, clt or partner) and use the example.txt file to see what informations do you have insert.
 #### 3.2. Creation with name format -> ```{firstName.LastName.txt}```
 #### 3.3. Include your informations in the file
@@ -58,6 +56,7 @@ git checkout -b '{name_of_the_branch}' // name_of_the_branch = {yourname}+employ
   <summary>
     4. Make a push of your branch
   </summary>
+  
 #### 4.1. Open git bash
 #### 4.2. Insert your Name and Email to represent your actions in this git project.
 ```
@@ -82,6 +81,7 @@ git push origin {your_branch_name}
   <summary>
     5. Create a Pull Request
   </summary>
+  
 #### 5.1. Open the repository website, open the 'Pull Requests' page, click in the 'New pull request' button.
 ![pull_request](/md-images/009-pull-request-page.png)
 
