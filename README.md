@@ -1,8 +1,8 @@
 
 # Tuntscorp Git Introduction
-This is a git introduction project, to employees with no git experience. 
-In this project we have a employee files for all employees of the company.
-To complete this introduction flow, added your employee file in respective folder.
+This is a git introduction project, to employees with no experience. 
+In this project all employee have a file with your information in specific contracts folders.
+To complete this introduction, send the pull request url of your information file added in your respective contract type folder.
 
 ## Steps:
 
