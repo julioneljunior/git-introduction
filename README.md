@@ -20,7 +20,7 @@ To clone this repository:
 3. Open Git Bash ( download link -> https://git-scm.com/downloads)
 4. Clone repository to your computer.
 
-```javascript
+```
 git clone '{repository_url}' // repository_url = url copied from step2
 ```
 5. Clone repository successful
@@ -44,8 +44,8 @@ git checkout -b '{name_of_the_branch}' // name_of_the_branch = {yourname}+employ
 1. Open git bash
 2. Insert your Name and Email to represent your actions in this git project.
 ```
-    git config user.email {Your email}
-    git config user.name {Your name}
+git config user.email {Your email}
+git config user.name {Your name}
 ```
 3. Add your file to commit
 ```
