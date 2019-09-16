@@ -40,10 +40,10 @@ git checkout -b '{name_of_the_branch}' // name_of_the_branch = {yourname}+employ
 3. Branch sucessful created.
 
 ### 3. Added your information file
-2. Create your file taking into consideration your contract with the company (intern, clt or partner) and use the example.txt file to see what informations do you have insert.
-3. Creation with name format -> ```{firstName.LastName.txt}```
-4. Include your informations in the file
-5. Information file sucessful created.
+1. Create your file taking into consideration your contract with the company (intern, clt or partner) and use the example.txt file to see what informations do you have insert.
+2. Creation with name format -> ```{firstName.LastName.txt}```
+3. Include your informations in the file
+4. Information file sucessful created.
 
 ### 4. Make a push of your branch
 1. Open git bash
