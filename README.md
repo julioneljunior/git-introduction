@@ -19,6 +19,7 @@ To clone this repository:
 ![download_or_clone_image](/md-images/001-clone_or_download.png)
 
 2. Copy the repository url.
+
 ![clone_url](/md-images/002-clone-url.png)
 
 3. Open Git Bash ( download link -> https://git-scm.com/downloads)
