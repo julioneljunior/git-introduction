@@ -1,7 +1,9 @@
 
 # Tuntscorp Git Introduction
 This is a git introduction project, to employees with no experience. 
+
 In this project all employee have a file with your information in specific contracts folders.
+
 To complete this introduction, send the pull request url of your information file added in your respective contract type folder.
 
 ## Steps:
