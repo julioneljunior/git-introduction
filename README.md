@@ -16,6 +16,7 @@ To complete this introduction flow, added your employee file in respective folde
 ### 1. Clone repository
 To clone this repository:
 1. click in 'download or clone' button.
+![download_or_clone_image](julioneljunior.github.com/tuntscorp-git-introduction/md-images/001-clone_or_download.png)
 2. Copy the repository url.
 3. Open Git Bash ( download link -> https://git-scm.com/downloads)
 4. Clone repository to your computer.
