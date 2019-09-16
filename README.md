@@ -100,6 +100,6 @@ git push origin {your_branch_name}
 
 ## GIT Documentation:
 
-[Git - the simple guide](https://rogerdudler.github.io/git-guide/index.html)
+<a href="https://rogerdudler.github.io/git-guide/index.html" target="_blank">Git - the simple guide</a>
 
-[Git - Oficial documentation](https://git-scm.com/doc)
+<a href="https://git-scm.com/doc" target="_blank">Git - Oficial Documentation</a>
