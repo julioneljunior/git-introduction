@@ -96,3 +96,10 @@ git push origin {your_branch_name}
 
 #### 5.5. Click 'Create pull request' button
 </details>
+
+
+## GIT Documentation:
+
+[Git - the simple guide](https://rogerdudler.github.io/git-guide/index.html)
+
+[Git - Oficial documentation](https://git-scm.com/doc)
