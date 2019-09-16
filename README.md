@@ -98,7 +98,7 @@ git push origin {your_branch_name}
 </details>
 
 
-## GIT Documentation:
+## Git Documentation:
 
 <a href="https://rogerdudler.github.io/git-guide/index.html" target="_blank">Git - the simple guide</a>
 
