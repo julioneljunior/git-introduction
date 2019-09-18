@@ -69,6 +69,8 @@ git add ./employees/{your contract}/{yourname}.txt
 ```
 
 #### 4.4. Add a new commit with the commentary of what represents your actions on repository
+
+<a href="https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines" target="_blank"> ANGULAR - Commit Message Guidelines</a>()
 ```
 git commit -m 'Feat({yourname}.txt): Added my information file.'
 ```
