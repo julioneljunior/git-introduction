@@ -1,5 +1,5 @@
 
-# Tuntscorp Git Introduction
+# Git Introduction
 This is a git introduction project, to employees with no experience. 
 
 In this project all employee have a file with your information in specific contracts folders.
